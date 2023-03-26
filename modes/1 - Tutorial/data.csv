@@ -1,0 +1,7 @@
+"value","data"
+"ciphers","[‘shift’, ‘flip’]"
+"main","rand.male"
+"difficulty","(10, 10)"
+"difficulty gain","(5, 5)"
+"levels",1
+"text","[‘Intro.txt’, ‘Demo.txt’]"

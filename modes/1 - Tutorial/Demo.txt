@@ -1,0 +1,3 @@
+This game allows for you to create 'scripts' to run through a text field.
+
+To use this tool, it is recommended to have the documentation open. This can be found at {doc_url}.
