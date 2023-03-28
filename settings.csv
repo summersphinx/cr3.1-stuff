@@ -6,3 +6,5 @@
 "music vol",0.8
 "voice",Off
 "voice vol",0.8
+sfx vol,0.8
+sfx,True
