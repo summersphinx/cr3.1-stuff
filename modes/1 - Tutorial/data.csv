@@ -1,7 +1,9 @@
-"value","data"
-"ciphers","[‘shift’, ‘flip’]"
-"main","rand.male"
-"difficulty","(10, 10)"
-"difficulty gain","(5, 5)"
-"levels",1
-"text","[‘Intro.txt’, ‘Demo.txt’]"
+ciphers,['shift', 'flip']
+main,rand.male
+difficulty,(10, 10)
+difficulty gain,(5, 5)
+levels,1
+text,['Intro.txt', 'Demo.txt']
+textlvl,[0, 1]
+organization,rand.govt
+gamestage,0
