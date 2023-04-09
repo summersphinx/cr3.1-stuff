@@ -1,3 +1,8 @@
+TO:   {name}@LEGIT.com
+FROM: ANOTHERBOT.RECRUITER@CYPHERJOBS.GOV
+
+SUBJECT: ATTENTION HUMAN! JOB INFORMATION ENCLOSED!
+
 Welcome Recruit!
 
 You have been selected against your will to work at {organization} to intercept and decrypt messages!
@@ -5,3 +10,5 @@ You have been selected against your will to work at {organization} to intercept 
 Failure to comply with this order will end in termination!
 
 You will begin training immediately!
+
+(This is an email from a robot. Do not reply.)

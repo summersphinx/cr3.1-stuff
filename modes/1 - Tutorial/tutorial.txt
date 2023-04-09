@@ -1,0 +1,13 @@
+TO:   {name}@LEGIT.com
+FROM: ANOTHERBOT.MANAGER@CYPHERJOBS.GOV
+
+SUBJECT: HOW TO DO YOUR JOB
+
+You will get emails forwarded to you on this screen, with the contents being the message you must decrypt.
+A key will also be passed along to you. This key is only letters, with each letter being a different encryption method and key if there is one. Example: `A` could be a Caesar cipher with a key of 5, and `B` could be an Atbash cipher. If the key was stated as `BA`, then you would first do the Atbash cipher, then the Caesar with that key.
+
+(The letters will be the same per save, but will change even on the same mode.)
+
+After writing your code, and testing the output, email the result directly to me.
+
+    - THE MANAGER
