@@ -1,10 +1,10 @@
-ciphers,['shift', 'flip']
+ciphers,shift|flip
 main,rand.male
-difficulty,(10, 10)
-difficulty gain,(5, 5)
+difficulty,10|10
+difficulty gain,5|5
 levels,1
-text,['Intro.txt', 'Demo.txt', 'tutorial.txt']
-textlvl,[0, 0, 0]
+text,Intro.txt|Demo.txt
+textlvl,0|1
 organization,rand.govt
 gamestage,0
 msg,rand.msg
